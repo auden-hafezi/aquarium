@@ -1,0 +1,36 @@
+{
+    "pets": [
+        {
+            "hungry": false,
+            "needCount": 1,
+            "species": "GOLDFISH",
+            "name": "mahi"
+        },
+        {
+            "hungry": false,
+            "needCount": 1,
+            "species": "JELLYFISH",
+            "name": "jello"
+        },
+        {
+            "hungry": true,
+            "needCount": 0,
+            "species": "STINGRAY",
+            "name": "cappucino"
+        },
+        {
+            "hungry": false,
+            "needCount": 0,
+            "species": "WHALE_SHARK",
+            "name": "bumbo"
+        },
+        {
+            "hungry": false,
+            "needCount": 0,
+            "species": "SHARK",
+            "name": "fatty"
+        }
+    ],
+    "xp": 800,
+    "seaDollars": 414
+}

@@ -1,0 +1,18 @@
+{
+    "pets": [
+        {
+            "hungry": false,
+            "needCount": 0,
+            "species": "GOLDFISH",
+            "name": "boba"
+        },
+        {
+            "hungry": true,
+            "needCount": 0,
+            "species": "JELLYFISH",
+            "name": "jello"
+        }
+    ],
+    "xp": 0,
+    "seaDollars": 20
+}

@@ -1,0 +1,36 @@
+{
+    "pets": [
+        {
+            "hungry": false,
+            "needCount": 0,
+            "species": "GOLDFISH",
+            "name": "boba"
+        },
+        {
+            "hungry": false,
+            "needCount": 3,
+            "species": "JELLYFISH",
+            "name": "jello"
+        },
+        {
+            "hungry": true,
+            "needCount": 0,
+            "species": "STINGRAY",
+            "name": "cappuccino"
+        },
+        {
+            "hungry": false,
+            "needCount": 4,
+            "species": "WHALE_SHARK",
+            "name": "auden"
+        },
+        {
+            "hungry": false,
+            "needCount": 2,
+            "species": "SHARK",
+            "name": "strawberry"
+        }
+    ],
+    "xp": 278,
+    "seaDollars": 400
+}
