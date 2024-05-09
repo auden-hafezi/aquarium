@@ -24,8 +24,7 @@ public class JsonReader {
     }
 
     // EFFECTS: reads the person from the file
-    // throws an IOException if an error occurs when trying to read the cafe log
-    public void read() throws IOException {
+    // throws an IOException if an error occurs when trying to read the person
         String jsonData = readFile(source);
         JSONObject jsonObject = new JSONObject(jsonData);
         parsePerson(jsonObject);
@@ -42,7 +41,7 @@ public class JsonReader {
         return contentBuilder.toString();
     }
 
-    // EFFECTS: parses cafe log from JSON object
+    // EFFECTS: parses person from JSON object
     public void parsePerson(JSONObject jsonObject) {
         Person.getInstance().reset();
         Person person = Person.getInstance();
